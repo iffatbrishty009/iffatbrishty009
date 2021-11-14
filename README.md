@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning a little bit of everything and anything that I recommend myself necessary.
 - 👯 I’m looking to collaborate on open source.
 - 💬 Ask me about CS field, I'll try my best to help sort out things.
-- 📫 How to reach me: [instagram](www.instagram.com) [Facebook](https://www.facebook.com/lffat.bristy)
+- 📫 How to reach me: [Facebook](https://www.facebook.com/lffat.bristy)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love coding !! :P
 -->
